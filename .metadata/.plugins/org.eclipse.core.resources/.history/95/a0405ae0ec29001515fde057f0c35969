@@ -1,8 +1,6 @@
 package powerOfTwo;
 
 public class PowerOfTwo {
-	
-	//add a comment
 
 	public static boolean isPowOfTwo(int n) {
 		return n > 0 && (n & (n - 1)) == 0;
