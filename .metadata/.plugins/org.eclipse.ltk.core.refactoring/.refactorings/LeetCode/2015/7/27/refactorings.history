@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;isomorphic.isIsomorphic&apos; to &apos;Isomorphic&apos;&#x0A;- Original project: &apos;LeetCode&apos;&#x0A;- Original element: &apos;isomorphic.isIsomorphic&apos;&#x0A;- Renamed element: &apos;isomorphic.Isomorphic&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;isIsomorphic&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;isomorphic{isIsomorphic.java[isIsomorphic" matchStrategy="1" name="Isomorphic" qualified="false" references="true" similarDeclarations="false" stamp="1436025551883" textual="false" version="1.0"/>
+</session>
