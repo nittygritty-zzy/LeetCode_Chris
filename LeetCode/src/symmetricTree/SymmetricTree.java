@@ -57,7 +57,7 @@ public class SymmetricTree {
 			right = stack.pop();
 			left = stack.pop();
 			if (right.val != left.val)
-				return false;			// Check Symmetric Tree Value 
+				return false; // Check Symmetric Tree Value
 
 			if (left.left != null) {
 				if (right.right == null) {
@@ -65,15 +65,19 @@ public class SymmetricTree {
 				}
 				stack.push(left.left);
 				stack.push(right.right);
-			} else if (right.right != null) {
+			} else if (right.right != null) { // if root.left == null &&
+												// root.right != null return
+												// false;
 				return false;
 			}
-			
-			if (left.right != null){
-				if(right.left == null) return false;
+
+			if (left.right != null) {
+				if (right.left == null)
+					return false;
 				stack.push(left.right);
 				stack.push(right.left);
-			} else if(right.left == null) return false;
+			} else if (right.left == null)
+				return false;
 		}
 		return true;
 	}
