@@ -10,7 +10,7 @@ class TreeNode {
 	}
 }
 
-public class solution {
+public class Solution {
 	// iterative, O(1) space:
 	public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
 		while ((root.val - (long) p.val) * (root.val - (long) q.val) > 0)
