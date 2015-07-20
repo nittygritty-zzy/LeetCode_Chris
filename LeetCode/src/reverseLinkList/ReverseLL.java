@@ -12,6 +12,17 @@ public class ReverseLL {
 		}
 		return newHead;
 	}
+	
+	public static ListNode reverseListII(ListNode head){
+		ListNode newHead = null;
+		while(head != null){
+			ListNode next = head.next;
+			head.next = newHead;
+			newHead = head;
+			head = next;
+		}
+		return newHead;
+	}
 
 	public static void printList(ListNode x) {
 		if (x != null) {
@@ -30,7 +41,6 @@ public class ReverseLL {
 		ListNode n1 = new ListNode(2);
 		ListNode n2 = new ListNode(3);
 		ListNode n3 = new ListNode(4);
-
 		ListNode n4 = new ListNode(3);
 		ListNode n5 = new ListNode(4);
 		ListNode n6 = new ListNode(5);
@@ -41,7 +51,7 @@ public class ReverseLL {
 		n4.next = n5;
 		n5.next = n6;
 
-		n1 = reverseList(n1);
+		n1 = reverseListII(n1);
 
 		printList(n1);
 	}
