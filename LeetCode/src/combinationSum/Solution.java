@@ -17,5 +17,6 @@ public class Solution {
 				subList.add(candidates[i]);
 			}
 		}
+		return res;
 	}
 }
