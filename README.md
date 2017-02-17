@@ -4,6 +4,7 @@ All coding questions from: https://leetcode.com
 
 Please contact me at: zheyuan28@gmail.com if you have questions.
 
+```
 	#	Title	Editorial	Acceptance	Difficulty	Frequency
 461
 Hamming Distance  		71.0%	Easy
@@ -962,3 +963,4 @@ Reverse Pairs  		15.4%	Hard
 Word Ladder II  		13.7%	Hard
 65
 Valid Number  		12.6%	Hard
+```
