@@ -5,9 +5,8 @@ All coding questions from: https://leetcode.com
 Please contact me at: zheyuan28@gmail.com if you have questions.
 
 ```
-	#	Title	Editorial	Acceptance	Difficulty	Frequency
-461
-Hamming Distance  		71.0%	Easy
+	#	Title | Editorial | Acceptance | Difficulty | Frequency
+461|Hamming Distance|71.0%|Easy
 476
 Number Complement  		60.7%	Easy
 500
