@@ -2,8 +2,6 @@
 
 All coding questions from: https://leetcode.com
 
-Please contact me at: zheyuan28@gmail.com if you have questions.
-
 
 
 | Title | Editorial | Acceptance | Difficulty | Frequency |
@@ -24,4 +22,4 @@ Please contact me at: zheyuan28@gmail.com if you have questions.
 | 268	| Missing Number  	|	43.8%	|Easy|
 | 447	| Number of Boomerangs  	|	43.2%	|Easy|
 | 401	| Binary Watch  	|	44.1%	|Easy|
-| 404	| Sum of Left Leaves  |		46.0%|	Easy|
+| 404	| Sum of Left Leaves  |		46.0%|	Easy|``
