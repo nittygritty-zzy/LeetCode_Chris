@@ -7,8 +7,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 
-| Title | Editorial | Acceptance | Difficulty | Frequency |
-|-------|-----------|:------------:|----------|-----------:|
+| Title | Editorial | Acceptance | Difficulty |  
+|:-------:|:-----------:|:------------:|:----------:|
 | 461   | Hamming Distance | 71.0% | Easy |
 | 476   | Number Complement | 60.7%	|Easy |
 | 500   | Keyboard Row  | 		60.6%|	Easy|
@@ -28,4 +28,9 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 | 404	| Sum of Left Leaves  |		46.0%|	Easy|
 | 405   | Convert a Number to Hexadecimal | 40.6% | Easy|
 | 458   | Poor Pigs | 38.0% | Easy|
+| 303   | Range Sum Query - Immutable | 27.0% | Easy |
+| 516   | Longest Palindromic Subsequence | 41.7% | Medium |
+| 494   | Target Sum| 44.5% | Medium |
+
+ 
 

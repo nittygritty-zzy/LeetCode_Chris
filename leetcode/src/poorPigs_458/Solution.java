@@ -42,9 +42,11 @@ public class Solution {
 
     From multiplication point of view:
 
-    From principle of multiplication without going though the recursive calculation. Note that during t tests, each pig has exactly t+1 possible different statuses: died at some Test#j (1<=j<=t) or still alive after all. So the maximum number of possible statuses of n pigs with t tests is straightforward dp[n][t] = (t+1)^n.
-
-
+    From principle of multiplication without going though the recursive calculation.
+    Note that during t tests, each pig has exactly t+1 possible different statuses:
+    died at some Test#j (1<=j<=t) or still alive after all.
+    So the maximum number of possible statuses of n pigs with t tests is straightforward:
+    dp[n][t] = (t+1)^n.
     */
     public int poorPigs(int buckets, int minutesToDie, int minutesToTest) {
         int pigs = 0;
