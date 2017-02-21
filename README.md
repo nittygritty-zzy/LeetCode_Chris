@@ -26,3 +26,5 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 | 447	| Number of Boomerangs  	|	43.2%	|Easy|
 | 401	| Binary Watch  	|	44.1%	|Easy|
 | 404	| Sum of Left Leaves  |		46.0%|	Easy|``
+| 405   | Convert a Number to Hexadecimal | 40.6% | Esay|
+
